@@ -1,0 +1,31 @@
+body {
+	margin: 20px;
+	background-color: #f5f2e8;
+}
+nav {
+	font-family: Arial, sans-serif;
+	padding: 5px 10%;
+	text-align: center;
+}
+nav li {
+	display: inline;
+	padding: 0px 30px 0px 0px;
+}
+
+nav a {
+	text-decoration: none;
+	color: #333333;
+}
+
+nav li {
+    display: inline-block; /* Inline-block allows padding + box model */
+    padding: 5px 10px;
+    margin: 0 10px;
+    border-radius: 15px; /* Rounded corners */
+    transition: background-color 0.3s ease;
+}
+
+nav li:hover {
+    background-color: #e8dfc2; /* Light gray on hover */
+    cursor: pointer;
+}
