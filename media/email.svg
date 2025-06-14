@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825 575">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 75px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #333;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 50px;
+      }
+    </style>
+  </defs>
+  <g id="Icon">
+    <g id="Icon_04_-_File" data-name="Icon 04 - File">
+      <g>
+        <rect class="cls-1" x="37.5" y="37.5" width="750" height="500" rx="50" ry="50" transform="translate(825 575) rotate(180)"/>
+        <path class="cls-2" d="M769.17,48.81l-324.63,270.95c-18.55,15.48-45.53,15.48-64.08,0L55.83,48.81"/>
+      </g>
+    </g>
+  </g>
+</svg>
